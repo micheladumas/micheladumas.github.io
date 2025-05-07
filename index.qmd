@@ -25,4 +25,18 @@ Currently, I am a Postdoctoral Research Fellow at the University of Ottawa (Cana
 
 For more information on my work, check out [my projects](https://micheladumas.github.io/projects).
 
-I spend most of my free time backpacking or otherwise enjoying the great outdoors. You'll find a smattering of photos from some of my favourite adventures throughout this website!  
+I spend most of my free time backpacking or otherwise enjoying the great outdoors. You'll find a smattering of photos from some of my favourite adventures throughout this website! 
+
+# Education
+
+education:
+  courses:
+  - course: PhD in Biology
+    institution: Université de Sherbrooke, Sherbrooke, Qc, Canada
+    year: 2010
+  - course: MSc in Biology
+    institution: Université du Québec à Montréal, Montréal, Qc, Canada
+    year: 2006
+  - course: Maitrise en Écologie
+    institution: Université Henri Poincarré Nancy II, Nancy, France
+    year: 2003
