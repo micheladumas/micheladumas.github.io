@@ -29,14 +29,8 @@ I spend most of my free time backpacking or otherwise enjoying the great outdoor
 
 # Education
 
-education:
-  courses:
-  - course: PhD in Biology
-    institution: Université de Sherbrooke, Sherbrooke, Qc, Canada
-    year: 2010
-  - course: MSc in Biology
-    institution: Université du Québec à Montréal, Montréal, Qc, Canada
-    year: 2006
-  - course: Maitrise en Écologie
-    institution: Université Henri Poincarré Nancy II, Nancy, France
-    year: 2003
+[{{< fa-graduation-cap >}}] **Ph.D. in Biology** University of Ottawa, Ontario, Canada. 2020-2024.
+
+[{{< fa-graduation-cap >}}] **M.Sc. in Ethology** Université Paris Sorbonne Nord, Ile-de-France, France. 2018-2020. 
+
+[{{< fa-graduation-cap >}}] **B.Sc. in Biology** Honours, with speciallization in Ecology, Ecolution, and Behaviour, with a minor in Psychology. 2012-2017.
