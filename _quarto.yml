@@ -5,9 +5,17 @@ website:
   title: "Michela Dumas"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: Projects 
+        href: projects.qmd
+      - text: Publications
+        href: publications.qmd
+    right: 
+      - icon: github
+        href: https://github.com/micheladumas
+      - icon: twitter
+        href: https://x.com/michela_dumas
+      - icon: linkedin
+        href: https://www.linkedin.com/in/michela-dumas-100611227/
 
 format:
   html:
@@ -16,6 +24,3 @@ format:
       - brand
     css: styles.css
     toc: true
-
-
-
