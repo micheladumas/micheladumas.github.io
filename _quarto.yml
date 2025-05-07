@@ -1,14 +1,18 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Michela Dumas"
   navbar:
+    pinned: true
     left:
       - text: Projects 
         href: projects.qmd
       - text: Publications
         href: publications.qmd
+      - text: "CV"
+        href: cv/index.qmd
     right: 
       - icon: github
         href: https://github.com/micheladumas
