@@ -1,7 +1,28 @@
 ---
-title: "micheladumas.github.io"
+title: "Michela Dumas"
+about:
+  template: trestles
+  image: /img/swifts-2.jpg 
+  links:
+    - icon: twitter
+      text: x (formerly Twitter)
+      href: https://x.com/michela_dumas
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/michela-dumas-100611227/
+    - icon: github
+      text: Github
+      href: https://github.com/micheladumas
 ---
 
-This is a Quarto website.
+Hi there! I'm Michela. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+![Photo of Michela petting a cow in the Swiss Alps](/img/switzerland-1.jpg "Encounter with a cow in the Swiss Alps")
+
+I'm an evolutionary ecologist with a particular interest for sexual selection. I aim to answer questions related to the evolution of sexual dimorphism in the wild using long-term individual-based datasets. I'm also broadly interested in the effects of climate change on wild populations. 
+
+Currently, I am a Postdoctoral Research Fellow at the University of Ottawa (Canada). I'm building on work I undertook during my PhD under the supervision of Prof. Julien Martin (M.A.D. Lab, University of Ottawa, Canada) and Dr. Pierre Bize (Bize Lab, Swiss Ornithological Institute - Vogelwarte Sempach, Switzerland).
+
+For more information on my work, check out [my projects](https://micheladumas.github.io/projects).
+
+I spend most of my free time backpacking or otherwise enjoying the great outdoors. You'll find a smattering of photos from some of my favourite adventures throughout this website!  

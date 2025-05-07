@@ -1,0 +1,66 @@
+---
+title: "Publications"
+---
+
+My publication list is pulled automatically from my [Google Scholar profile]("https://scholar.google.com/citations?hl=en&user=isfLoMsAAAAJ") using R. If you are interested in an article that is not Open Access, please [reach out](mailto:mduma060@uottawa.ca)
+
+The data and code used for my publications are archived on my [Open Science Framework page]("https://osf.io/e3v68/").
+
+PAGE UNDER CONSTRUCTION
+
+```{r, include = FALSE}
+library(scholar)
+library(tidyverse)
+library(glue)
+library(gt)
+
+# escape some special chars, german umlauts, ...
+char2html <- function(x) {
+  dictionary <- data.frame(
+    symbol = c("ä", "ö", "ü", "Ä", "Ö", "Ü", "ß"),
+    html = c(
+      "&auml;", "&ouml;", "&uuml;", "&Auml;",
+      "&Ouml;", "&Uuml;", "&szlig;"
+    )
+  )
+  for (i in 1:dim(dictionary)[1]) {
+    x <- gsub(dictionary$symbol[i], dictionary$html[i], x)
+  }
+  x
+}
+
+# my google scholar user id from my profile url
+# https://scholar.google.com/citations?hl=en&user=isfLoMsAAAAJ
+id_mnd <- "isfLoMsAAAAJ"
+
+```
+
+Researcher h-index: `r get_profile(id_mnd)$h_index`
+
+Total number of citations: `r get_profile(id_mnd)$total_cites`
+
+```{r, echo = FALSE}
+
+# pull from google
+pubs <- get_publications(id_mnd)
+
+for (x in 1:length(pubs$pubid)) {
+  var_pubid <- pubs$pubid[x]
+  pubs$pub_url[x] <- get_publication_url(id = id_mnd, pub_id = var_pubid)
+}
+
+# formating
+pubs <- pubs %>%
+  arrange(desc(year)) %>%
+  split(.$year) %>%
+  map(function(x) {
+    x <- x %>%
+      glue_data('{author}. ({year}). {title}, {journal}, {number}. [citations: {cites}].')
+
+    return(x)
+  }) %>%
+  rev()
+  
+pubs
+
+```
