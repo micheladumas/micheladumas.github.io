@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "micheladumas.github.io"
+  title: "Michela Dumas"
   navbar:
     left:
       - href: index.qmd
