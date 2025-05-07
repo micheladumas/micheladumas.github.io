@@ -17,7 +17,7 @@ about:
 
 Hi there! I'm Michela. 
 
-![Photo of Michela petting a cow in the Swiss Alps](/img/switzerland-1.jpg "Encounter with a cow in the Swiss Alps")
+![Photo of Michela petting a cow in the Swiss Alps](/img/swiss-2.jpg "Encounter with a cow in the Swiss Alps")
 
 I'm an evolutionary ecologist with a particular interest for sexual selection. I aim to answer questions related to the evolution of sexual dimorphism in the wild using long-term individual-based datasets. I'm also broadly interested in the effects of climate change on wild populations. 
 
