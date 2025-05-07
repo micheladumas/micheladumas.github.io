@@ -2,9 +2,9 @@
 title: "Publications"
 ---
 
-My publication list is pulled automatically from my [Google Scholar profile]("https://scholar.google.com/citations?hl=en&user=isfLoMsAAAAJ") using R. If you are interested in an article that is not Open Access, please [reach out](mailto:mduma060@uottawa.ca)
+My publication list is pulled automatically from my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=isfLoMsAAAAJ) using R. If you are interested in an article that is not Open Access, please [reach out](mailto:mduma060@uottawa.ca)
 
-The data and code used for my publications are archived on my [Open Science Framework page]("https://osf.io/e3v68/").
+The data and code used for my publications are archived on my [Open Science Framework page](https://osf.io/e3v68/).
 
 PAGE UNDER CONSTRUCTION
 
