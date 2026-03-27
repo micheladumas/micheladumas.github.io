@@ -54,10 +54,18 @@ pubs <- pubs %>%
   arrange(desc(year)) %>%
   mutate(
     citation = glue(
-      "{author}. ({year}). {title}, {journal}, {number}. [citations: {cites}]."
+      '{author}. ({year}). {title}, {journal}, {number}. [citations: {cites}].'
     )
-  )
+  ) %>%
+  group_by(year) %>%
+  summarise(text = paste(citation, collapse = "<br>")) %>%
+  arrange(desc(year))
 
-cat(paste(pubs$citation, collapse = "<br><br>"))
+# print nicely
+for (i in 1:nrow(pubs)) {
+  cat(glue("<b>{pubs$year[i]}</b><br>"))
+  cat(pubs$text[i])
+  cat("<br><br>")
+}
 
 ```
