@@ -1,12 +1,15 @@
 ---
 title: "Publications"
+format: html
+execute:
+  echo: false
+  warning: false
+  message: false
 ---
 
 My publication list is pulled automatically from my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=isfLoMsAAAAJ) using R. If you are interested in an article that is not Open Access, please [reach out](mailto:mduma060@uottawa.ca).
 
 The data and code used for my publications are archived on my [Open Science Framework page](https://osf.io/e3v68/).
-
-PAGE UNDER CONSTRUCTION
 
 ```{r, include = FALSE}
 library(scholar)
@@ -39,7 +42,7 @@ Researcher h-index: `r get_profile(id_mnd)$h_index`
 
 Total number of citations: `r get_profile(id_mnd)$total_cites`
 
-```{r, echo = FALSE}
+```{r, echo = FALSE, results='asis'}
 
 # pull from google
 pubs <- get_publications(id_mnd)
@@ -49,23 +52,28 @@ for (x in 1:length(pubs$pubid)) {
   pubs$pub_url[x] <- get_publication_url(id = id_mnd, pub_id = var_pubid)
 }
 
-# formating
+# create a formatted citation
 pubs <- pubs %>%
   arrange(desc(year)) %>%
-  mutate(
-    citation = glue(
-      '{author}. ({year}). {title}, {journal}, {number}. [citations: {cites}].'
-    )
-  ) %>%
+  mutate(citation = glue('{author}. ({year}) {title}, {journal}, {number}. {pub_url}  [citations: {cites}].')) %>%
   group_by(year) %>%
-  summarise(text = paste(citation, collapse = "<br>")) %>%
-  arrange(desc(year))
+  mutate(pub_number = row_number()) %>%
+  ungroup()
 
-# print nicely
-for (i in 1:nrow(pubs)) {
-  cat(glue("<b>{pubs$year[i]}</b><br>"))
-  cat(pubs$text[i])
-  cat("<br><br>")
+# print nicely as HTML
+
+for (yr in unique(pubs$year)) {
+  cat(glue("<h3>{yr}</h3>\n"))
+ 
+  pubs_year <- pubs %>% filter(year == yr)
+  
+  cat("<ol>\n")  # start numbered list
+  for (i in 1:nrow(pubs_year)) {
+    cat(glue(
+      '<li>{pubs_year$author[i]} ({pubs_year$year[i]}) <a href="{pubs_year$pub_url[i]}" target="_blank">{pubs_year$title[i]}</a>, {pubs_year$journal[i]}, {pubs_year$volume[i]} ({pubs_year$issue[i]}), {pubs_year$pages[i]}. [citations: {pubs_year$citations[i]}]</li>\n'
+    ))
+  }
+  cat("</ol>\n\n")
 }
 
 ```
