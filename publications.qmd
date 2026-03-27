@@ -70,7 +70,7 @@ for (yr in unique(pubs$year)) {
   cat("<ol>\n")  # start numbered list
   for (i in 1:nrow(pubs_year)) {
     cat(glue(
-      '<li>{pubs_year$author[i]} ({pubs_year$year[i]}) <a href="{pubs_year$pub_url[i]}" target="_blank">{pubs_year$title[i]}</a>, {pubs_year$journal[i]}, {pubs_year$volume[i]} ({pubs_year$issue[i]}), {pubs_year$pages[i]}. [citations: {pubs_year$citations[i]}]</li>\n'
+      '<li>{pubs_year$author[i]} ({pubs_year$year[i]}) <a href="{pubs_year$pub_url[i]}" target="_blank">{pubs_year$title[i]}</a>, *{pubs_year$journal[i]}*: {pubs_year$number[i]}. [citations: {pubs_year$cites[i]}]</li>\n'
     ))
   }
   cat("</ol>\n\n")
