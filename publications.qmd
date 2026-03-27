@@ -52,15 +52,12 @@ for (x in 1:length(pubs$pubid)) {
 # formating
 pubs <- pubs %>%
   arrange(desc(year)) %>%
-  split(.$year) %>%
-  map(function(x) {
-    x <- x %>%
-      glue_data('{author}. ({year}). {title}, {journal}, {number}. [citations: {cites}].')
+  mutate(
+    citation = glue_data(
+      '{author}. ({year}). {title}, {journal}, {number}. [citations: {cites}].'
+    )
+  )
 
-    return(x)
-  }) %>%
-  rev()
-  
-pubs
+cat(paste(pubs$citation, collapse = "<br><br>"))
 
 ```
