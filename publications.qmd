@@ -53,8 +53,8 @@ for (x in 1:length(pubs$pubid)) {
 pubs <- pubs %>%
   arrange(desc(year)) %>%
   mutate(
-    citation = glue_data(
-      '{author}. ({year}). {title}, {journal}, {number}. [citations: {cites}].'
+    citation = glue(
+      "{author}. ({year}). {title}, {journal}, {number}. [citations: {cites}]."
     )
   )
 
