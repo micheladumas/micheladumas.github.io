@@ -36,13 +36,24 @@ char2html <- function(x) {
 # https://scholar.google.com/citations?hl=en&user=isfLoMsAAAAJ
 id_mnd <- "isfLoMsAAAAJ"
 
-profile <- get_profile(id_mnd)
+profile <- tryCatch(
+  get_profile(id_mnd),
+  error = function(e) NULL
+)
+
+if (is.null(profile) || !is.list(profile)) {
+  h_index <- "Unavailable"
+  total_cites <- "Unavailable"
+} else {
+  h_index <- profile$h_index
+  total_cites <- profile$total_cites
+}
+
+# Print metrics
+cat(glue("**Researcher h-index:** {h_index}  \n"))
+cat(glue("**Total citations:** {total_cites}  \n\n"))
 
 ```
-
-Researcher h-index: `r profile$h_index`
-
-Total number of citations: `r profile$total_cites`
 
 ```{r, echo = FALSE, results='asis'}
 
