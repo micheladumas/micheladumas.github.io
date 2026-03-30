@@ -1,1 +1,17 @@
 /* css styles */
+
+.project-card {
+  border: 1px solid #48320a5a;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 0.5rem;
+  transition: 0.2s;
+}
+.project-card a {
+  text-decoration: none;
+  color: #084333;
+}
+.project-card:hover {
+  background-color: #f9faf8;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
