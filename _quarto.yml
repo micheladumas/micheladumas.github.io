@@ -8,7 +8,7 @@ website:
     pinned: true
     left:
       - text: Projects 
-        href: projects.qmd
+        href: research_projects.qmd
       - text: Publications
         href: publications.qmd
       - text: "CV"
