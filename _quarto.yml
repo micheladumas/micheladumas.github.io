@@ -3,17 +3,29 @@ project:
   output-dir: docs
 
 website:
-  title: "Michela Dumas"
+  title: "Dumas Lab - Evolutionary Ecology in the Wild"
   navbar:
     pinned: true
     left:
-      - text: Projects 
+      - text: Home 
+        href: index.qmd
+      - text: Team 
+        href: team.qmd
+      - text: Research 
         href: research_projects.qmd
       - text: Publications
         href: publications.qmd
-      - text: "CV"
+      - text: Teaching
+        href: teaching.qmd
+      - text: Join the Lab
+        href: join_the_lab.qmd
+      - text: "Michela's Academic CV"
         href: cv/index.qmd
     right: 
+      - text: "EN"
+        href: index.qmd
+      - text: "FR"
+        href: fr/index.qmd
       - icon: github
         href: https://github.com/micheladumas
       - icon: twitter
@@ -27,4 +39,4 @@ format:
       - cosmo
       - brand
     css: styles.css
-    toc: true
+    toc: false

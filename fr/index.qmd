@@ -1,0 +1,137 @@
+
+---
+title: "Dumas Lab"
+description: "Écologie évolutive en milieu naturel"
+lang: fr
+---
+
+<div class="lab-hero">
+
+<div class="lab-hero-text">
+
+<div class="lab-eyebrow">
+ÉCOLOGIE · ÉVOLUTION · FAUNE
+</div>
+
+# Comprendre l'évolution de la faune dans un monde en changement.
+
+Nous étudions les processus écologiques et évolutifs qui façonnent les populations sauvages, en nous intéressant particulièrement au dimorphisme sexuel, à la génétique quantitative et aux changements environnementaux.
+
+<div class="hero-links">
+<a class="lab-button" href="projets_de_recherche.html">
+Découvrir nos recherches <span>↗</span>
+</a>
+<a class="lab-text-link" href="nous_joindre.html">
+Joignez-vous à nous →
+</a>
+</div>
+
+</div>
+
+<div class="lab-hero-image">
+
+<img src="../img/swifts-2.jpg" alt="Martinets alpins en vol">
+
+<div class="image-caption">
+Un peu d'écologie, un peu d'évolution.
+</div>
+
+</div>
+
+</div>
+
+<div class="lab-intro">
+
+<div class="lab-eyebrow">BIENVENUE AU LABORATOIRE</div>
+
+## La faune, l'évolution et le monde naturel.
+
+Nous sommes un groupe de recherche en écologie évolutive à l'Université Laurentienne, à Sudbury, en Ontario.
+
+Nos recherches combinent des données écologiques à long terme, du travail de terrain et des méthodes quantitatives pour comprendre comment les populations sauvages réagissent aux changements environnementaux — et comment les processus évolutifs façonnent ces réponses.
+
+</div>
+
+<div class="lab-research">
+
+<div class="lab-section-heading">
+
+<div>
+<div class="lab-eyebrow">NOS RECHERCHES</div>
+
+## Trois questions. Un monde sauvage.
+</div>
+
+<a class="lab-text-link" href="projets_de_recherche.html">
+Toutes nos recherches →
+</a>
+
+</div>
+
+<div class="lab-research-grid">
+
+<div class="lab-research-card">
+
+<img src="../img/swifts-2.jpg" alt="Martinet alpin">
+
+<div class="card-content">
+
+<div class="card-number">01 / ÉVOLUTION</div>
+
+### Dimorphisme sexuel
+
+Comment les mâles et les femelles diffèrent-ils dans leurs réponses à la sélection? Quels facteurs déterminent l'évolution des traits propres à chaque sexe?
+
+</div>
+
+</div>
+
+<div class="lab-research-card">
+
+<img src="../img/swift.jpg" alt="Oiseau dans son environnement naturel">
+
+<div class="card-content">
+
+<div class="card-number">02 / ENVIRONNEMENT</div>
+
+### Évolution et changements environnementaux
+
+Comment les populations sauvages réagissent-elles aux changements environnementaux? L'évolution peut-elle suivre le rythme de ces changements?
+
+</div>
+
+</div>
+
+<div class="lab-research-card">
+
+<img src="../img/caribou.jpg" alt="Caribou des bois">
+
+<div class="card-content">
+
+<div class="card-number">03 / POPULATIONS</div>
+
+### Dynamique des populations sauvages
+
+Comment la variation individuelle, les conditions environnementales et les changements du paysage influencent-ils la persistance des populations?
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="lab-join">
+
+<div class="lab-eyebrow">JOIGNEZ-VOUS À NOUS</div>
+
+## La curiosité vous anime?
+
+Nous souhaitons rencontrer des personnes passionnées par la faune, l'écologie, l'évolution et les approches quantitatives pour comprendre le monde naturel.
+
+<a class="lab-button lab-button-light" href="nous_joindre.html">
+Joignez-vous à nous →
+</a>
+
+</div>

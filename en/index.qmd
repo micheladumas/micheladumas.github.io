@@ -1,0 +1,177 @@
+---
+title: "Dumas Lab  - Evolutionary Ecology in the Wild"
+about:
+  template: trestles
+  image: /img/swifts-2.jpg 
+  links:
+    - icon: twitter
+      text: x (formerly Twitter)
+      href: https://x.com/michela_dumas
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/michela-dumas-100611227/
+    - icon: github
+      text: Github
+      href: https://github.com/micheladumas
+---
+
+
+---
+title: "Dumas Lab"
+description: "Evolutionary ecology in the wild | Écologie évolutive en milieu naturel"
+---
+
+<div class="lab-hero">
+
+<div class="lab-hero-text">
+
+<div class="lab-eyebrow">
+ECOLOGY · EVOLUTION · WILDLIFE
+</div>
+
+# Understanding how wildlife evolves in a changing world.
+
+We study the ecological and evolutionary processes shaping wild populations, with a particular interest in sexual dimorphism, quantitative genetics, and environmental change.
+
+<div class="hero-links">
+<a class="lab-button" href="research_projects.html">
+Explore our research <span>↗</span>
+</a>
+<a class="lab-text-link" href="join_the_lab.html">
+Join the lab →
+</a>
+</div>
+
+</div>
+
+<div class="lab-hero-image">
+
+<img src="img/swifts-2.jpg" alt="Alpine swifts in flight">
+
+<div class="image-caption">
+A little bit of ecology, a little bit of evolution.
+</div>
+
+</div>
+
+</div>
+
+<div class="lab-intro">
+
+<div class="lab-eyebrow">WELCOME TO THE LAB</div>
+
+## Wildlife, evolution, and the natural world.
+
+We are an evolutionary ecology research group at Laurentian University, in Sudbury, Ontario.
+
+Our research combines long-term ecological data, fieldwork, and quantitative methods to understand how wildlife populations respond to environmental change — and how evolutionary processes shape those responses.
+
+</div>
+
+<div class="lab-research">
+
+<div class="lab-section-heading">
+
+<div>
+<div class="lab-eyebrow">WHAT WE DO</div>
+
+## Three questions. One wild world.
+</div>
+
+<a class="lab-text-link" href="research_projects.html">
+All research →
+</a>
+
+</div>
+
+<div class="lab-research-grid">
+
+<div class="lab-research-card">
+
+<img src="img/swifts-2.jpg" alt="Alpine swift">
+
+<div class="card-content">
+
+<div class="card-number">01 / EVOLUTION</div>
+
+### Sexual dimorphism
+
+How do males and females differ in their responses to selection? What determines the evolution of sex-specific traits?
+
+</div>
+
+</div>
+
+<div class="lab-research-card">
+
+<img src="img/swift.jpg" alt="Bird in its natural environment">
+
+<div class="card-content">
+
+<div class="card-number">02 / ENVIRONMENT</div>
+
+### Evolution in a changing world
+
+How do wild populations respond to environmental change? Can evolutionary processes keep pace?
+
+</div>
+
+</div>
+
+<div class="lab-research-card">
+
+<img src="img/caribou.jpg" alt="Woodland caribou">
+
+<div class="card-content">
+
+<div class="card-number">03 / POPULATIONS</div>
+
+### Wildlife population dynamics
+
+How do individual variation, environmental conditions, and landscape change influence population persistence?
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="lab-join">
+
+<div class="lab-eyebrow">COME WORK WITH US</div>
+
+## Curious about ecology and evolution?
+
+We are always interested in connecting with people who are passionate about wildlife, ecology, evolution, and quantitative approaches to understanding the natural world.
+
+<a class="lab-button lab-button-light" href="join_the_lab.html">
+Join the lab →
+</a>
+
+</div>
+
+
+
+Hi there! I'm Michela. 
+
+![Photo of Michela petting a cow in the Swiss Alps](/img/swiss-2.jpg "Encounter with a cow in the Swiss Alps")
+
+I'm a quantitative ecologist with a particular interest for sexual selection. I aim to answer questions related to the evolution of sexual dimorphism in the wild using long-term individual-based datasets. I'm also broadly interested in the effects of climate change and direct human impacts on wild populations. 
+
+Currently, I am Wildlife Research Analyst with the Ontario Public Service (Ministry of Natural Resources). My work contributes to monitoring caribou populations in Ontario for the purpose of management and policy decision-making
+
+Previously, I worked as a Postdoctoral Research Fellow at the University of Ottawa, where I built on work I undertook during my PhD under the supervision of Prof. Julien Martin (M.A.D. Lab, University of Ottawa, Canada) and Dr. Pierre Bize (Bize Lab, Swiss Ornithological Institute - Vogelwarte Sempach, Switzerland).
+
+For more information on my work, check out [my projects](https://micheladumas.github.io/projects).
+
+I spend most of my free time backpacking or otherwise enjoying the great outdoors. You'll find a smattering of photos from some of my favourite adventures throughout this website! 
+
+# Education
+
+{{< fa graduation-cap >}} **Ph.D. in Biology** University of Ottawa, Ontario, Canada. 2020-2024.
+
+{{< fa graduation-cap >}} **M.Sc. in Ethology** Université Paris Sorbonne Nord, Ile-de-France, France. 2018-2020. 
+
+{{< fa graduation-cap >}} **B.Sc. in Biology** Honours, with speciallization in Ecology, Ecolution, and Behaviour, with a minor in Psychology. 2012-2017.
