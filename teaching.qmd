@@ -1,0 +1,26 @@
+---
+title: "Teaching"
+about:
+  template: trestles
+  image: /img/swifts-2.jpg 
+---
+
+Bellow is a short description of the courses I am teaching at Laurentian University. For more details about course content, consult the university webpage, or feel free to reach out! 
+
+# BIOL-2356FL - Principes d’écologies 
+
+Ce cours traite des écosystèmes, des cycles biogéochimiques, de l'énergie écologique, de l'organisation et de la dynamique des communautés biotiques, du rapport entre l'écologie et l'être humain, de la chaîne alimentaire, de la démographie et de l'épidémiologie.
+
+Course to be taught in French. Fall 2027.  
+
+# BIOL-2706EL - Vertebrate Form and Function 
+
+This course is a comparative examination of the important features of the structure and functioning of the chordates with emphasis on the vertebrates and their evolutionary relationships. Course includes laboratory study of the anatomy of selected vertebrates.
+
+Course to be taught in English. Winter 2028
+
+# BIOL-3327EL - Experimental Methods in Biology
+
+This course examines the nature of scientific inquiry; biological philosophy and classic biological experiments; the modern research problem; experimental design and analysis; interpretation of results; and presentation of results for publication. It involves searches in scientific journals and abstracts. Students must have knowledge of basic statistical methods. 
+
+Course to be taught in English. Winter 2028

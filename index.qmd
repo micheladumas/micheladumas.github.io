@@ -1,0 +1,55 @@
+
+---
+title: "Dumas Lab - Evolutionary Ecology in the Wild"
+about:
+  template: trestles
+  image: /img/swifts-2.jpg
+---
+
+Evolutionary Ecology · Sexual Dimorphism · Long-term Data · Individual Variation · Environmental Change
+
+# Welcome!
+
+The Dumas Lab is based at Laurentian University, in the School of Natural Sciences. We seek to better understand how wild populations respond to changing environments, with a particular focus on sex-specific differences. We use quantitative genetics, genomics, and long-term ecological datasets to investigate the importance of evolutionary processes in shaping current trends and to make predictions about species persistence in Northern Ontario and beyond.
+
+Our research broadly seeks to answer the question: How do animals respond to changing environments, and how do evolutionary processes shape the future of wild populations?
+
+# Research Highlights
+
+<div class="project-grid">
+
+  <div class="project-card">
+    <img src="/img/swifts-2.jpg" alt="Alpine swift in flight">
+    <h3>Evolutionary Ecology</h3>
+    <p>How do natural and sexual selection shape variation and evolutionary change in wild populations?</p>
+  </div>
+
+  <div class="project-card">
+    <img src="/img/swifts-2.jpg" alt="Alpine swift in flight">
+    <h3>Sex-specific Evolution</h3>
+    <p>Why do males and females differ, and how do evolutionary processes act differently between the sexes?</p>
+  </div>
+
+  <div class="project-card">
+    <img src="/img/swifts-2.jpg" alt="Alpine swift in flight">
+    <h3>Quantitative Genetics</h3>
+    <p>How do genes and environmental conditions contribute to individual differences and evolutionary potential?</p>
+  </div>
+
+  <div class="project-card">
+    <img src="/img/swifts-2.jpg" alt="Alpine swift in flight">
+    <h3>Wildlife in a Changing World</h3>
+    <p>How do climate change and human-driven environmental disturbance influence wildlife populations?</p>
+  </div>
+
+</div>
+
+# An Inclusive Research Environment
+
+We believe that excellent science benefits from diverse perspectives, experiences, and ways of thinking. We are committed to fostering a welcoming, respectful, and inclusive research environment where everyone feels valued, supported, and able to contribute.
+
+We strive to provide equitable opportunities for learning, mentorship, and professional development, and to create a lab culture where curiosity, collaboration, and mutual respect are central.
+
+# Explore the Lab
+
+Interested in our research, looking for a research opportunity, or curious about joining the team? Explore our projects, meet the people behind the science, and get in touch!

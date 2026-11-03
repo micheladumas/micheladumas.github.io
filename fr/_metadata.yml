@@ -1,0 +1,28 @@
+
+website:
+  navbar:
+    pinned: true
+
+    left:
+      - text: Équipe
+        href: equipe.qmd
+      - text: Recherche
+        href: projets_de_recherche.qmd
+      - text: Publications
+        href: ../publications.qmd
+      - text: Enseignement
+        href: enseignement.qmd
+      - text: Joindre le labo
+        href: nous_joindre.qmd
+
+    right:
+      - text: EN
+        href: index.qmd
+      - text: FR
+        href: index.qmd
+      - icon: github
+        href: https://github.com/micheladumas
+      - icon: twitter
+        href: https://x.com/michela_dumas
+      - icon: linkedin
+        href: https://www.linkedin.com/in/michela-dumas-100611227/

@@ -1,0 +1,6 @@
+---
+title: "Enseignement"
+about:
+  template: trestles
+  image: /img/swifts-2.jpg 
+---
