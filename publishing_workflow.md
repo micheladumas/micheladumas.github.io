@@ -1,4 +1,3 @@
-
 # Dumas Lab Website — Publishing Workflow
 
 This website uses **Quarto + Babelquarto** for bilingual rendering and **GitHub Pages (`gh-pages`)** for deployment.

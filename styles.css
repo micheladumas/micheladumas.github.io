@@ -38,3 +38,8 @@
   transform: translateY(-4px);
   box-shadow: 0 8px 20px rgba(0,0,0,0.12);
 }
+
+/* Move Babelquarto language selector to the right */
+.navbar-nav > li:has(#languages-links-parent) {
+  margin-left: auto;
+}

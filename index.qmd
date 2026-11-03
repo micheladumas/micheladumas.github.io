@@ -1,9 +1,7 @@
 
 ---
 title: "Dumas Lab - Evolutionary Ecology in the Wild"
-about:
-  template: trestles
-  image: /img/swifts-2.jpg
+toc: false
 ---
 
 Evolutionary Ecology · Sexual Dimorphism · Long-term Data · Individual Variation · Environmental Change
