@@ -14,25 +14,11 @@
     "text": "[PAGE UNDER CONSTRUCTION]\n\n\n\nEvolutionary Causes & Consequences of Sexual Dimorphism\n\n\nWork undertaken in the context of my PhD and Postdoc in collaboration with Julien Martin & Pierre Bize.\n\n\n\n\n\nUsing Behavioural Strategies to Define Spatial Population Structures\n\n\nWork undertaken in the context of a Postdoc in collaboration with Glen Brown, Jeff Brown, Stephanie Blain."
   },
   {
-    "objectID": "projects/spatial_population_structure.html",
-    "href": "projects/spatial_population_structure.html",
-    "title": "Using behavioural strategies to define spatial population structures",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "Using behavioural strategies to define spatial population structures\nWork undertaken in the context of a Postdoc in collaboration with Glen Brown, Jeff Brown, Stephanie Blain\nBackground:\nMain findings:\nConclusions:"
-  },
-  {
-    "objectID": "cv/index.html",
-    "href": "cv/index.html",
-    "title": "Curriculum vitae",
-    "section": "",
-    "text": "Download current CV"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Dumas Lab - Evolutionary Ecology in the Wild",
-    "section": "",
-    "text": "Evolutionary Ecology · Sexual Dimorphism · Long-term Data · Individual Variation · Environmental Change\n\nWelcome!\nThe Dumas Lab is based at Laurentian University, in the School of Natural Sciences. We seek to better understand how wild populations respond to changing environments, with a particular focus on sex-specific differences. We use quantitative genetics, genomics, and long-term ecological datasets to investigate the importance of evolutionary processes in shaping current trends and to make predictions about species persistence in Northern Ontario and beyond.\nOur research broadly seeks to answer the question: How do animals respond to changing environments, and how do evolutionary processes shape the future of wild populations?\n\n\nResearch Highlights\n\n\n&lt;img src=\"/img/swifts-2.jpg\" alt=\"Alpine swift in flight\"&gt;\n&lt;h3&gt;Evolutionary Ecology&lt;/h3&gt;\n&lt;p&gt;How do natural and sexual selection shape variation and evolutionary change in wild populations?&lt;/p&gt;\n\n\n&lt;img src=\"/img/swifts-2.jpg\" alt=\"Alpine swift in flight\"&gt;\n&lt;h3&gt;Sex-specific Evolution&lt;/h3&gt;\n&lt;p&gt;Why do males and females differ, and how do evolutionary processes act differently between the sexes?&lt;/p&gt;\n\n\n&lt;img src=\"/img/swifts-2.jpg\" alt=\"Alpine swift in flight\"&gt;\n&lt;h3&gt;Quantitative Genetics&lt;/h3&gt;\n&lt;p&gt;How do genes and environmental conditions contribute to individual differences and evolutionary potential?&lt;/p&gt;\n\n\n&lt;img src=\"/img/swifts-2.jpg\" alt=\"Alpine swift in flight\"&gt;\n&lt;h3&gt;Wildlife in a Changing World&lt;/h3&gt;\n&lt;p&gt;How do climate change and human-driven environmental disturbance influence wildlife populations?&lt;/p&gt;\n\n\n\n\nAn Inclusive Research Environment\nWe believe that excellent science benefits from diverse perspectives, experiences, and ways of thinking. We are committed to fostering a welcoming, respectful, and inclusive research environment where everyone feels valued, supported, and able to contribute.\nWe strive to provide equitable opportunities for learning, mentorship, and professional development, and to create a lab culture where curiosity, collaboration, and mutual respect are central.\n\n\nExplore the Lab\nInterested in our research, looking for a research opportunity, or curious about joining the team? Explore our projects, meet the people behind the science, and get in touch!"
+    "text": "My publication list is pulled automatically from my Google Scholar profile using R. If you are interested in an article that is not Open Access, please reach out.\nThe data and code used for my publications are archived on my Open Science Framework page.\n\n2026\n\n\n\nMN Dumas, B Krasnay, CA Chabot, M Fraser Franco, É Gagnon, … (2026) Longevity is heritable and negatively genetically correlated between the sexes in yellow-bellied marmots, Evolution Letters: 10 (2), 165-172. [citations: 0]\n\n\n\n2025\n\n\n\nMN Dumas, CM Meier, P Bize, JGA Martin (2025) Who keeps the house after divorcing? Partner and Nest fidelity in the long-lived Alpine swift, The American Naturalist: 205 (2), 224-239. [citations: 9]\n\n\nMN Dumas, P Bize, JGA Martin (2025) Temporal changes in sex-specific cryptic sexual dimorphism and allometric scaling in the long-lived Alpine swift Tachymarptis melba, Journal of Evolutionary Biology: 38 (12), 1668-1677. [citations: 7]\n\n\n\n2024\n\n\n\nG Masoero, MN Dumas, JGA Martin, P Bize (2024) Trait‐specific sensitive developmental windows: Wing growth best integrates weather conditions encountered throughout the development of nestling Alpine swifts, Ecology and Evolution: 14 (6), e11491. [citations: 14]\n\n\nMN Dumas, S St. Lawrence, G Masoero, P Bize, JGA Martin (2024) Adult body mass is heritable, positively genetically correlated and under selection of differing shapes between the sexes in a bird with little apparent sexual dimorphism, Journal of Animal Ecology: 93 (5), 567-582. [citations: 13]\n\n\nM Dumas, J Martin, P Bize (2024) Shared genetic architecture and sex-specific fitness consequences of forked tails in the Alpine swift Tachymarptis melba, OSF: . [citations: 2]\n\n\nMN Dumas (2024) Sex-specific genetic architecture and fitness consequences of subtly dimorphic traits in the long-lived Alpine swift, Université d’Ottawa| University of Ottawa: . [citations: 0]\n\n\n\n2022\n\n\n\nS St. Lawrence, MN Dumas, M Petelle, DT Blumstein, JGA Martin (2022) Sex-specific reproductive strategies in wild yellow-bellied marmots (Marmota flaviventer): senescence and genetic variance in annual reproductive success differ …, Behavioral Ecology and Sociobiology: 76 (6), 84. [citations: 13]\n\n\n\n2021\n\n\n\nMC Lorenzi, D Schleicherová, FG Robles-Guerrero, M Dumas, A Araguas (2021) Egg-trading worms start reciprocation with caution, respond with confidence and care about partners’ quality, Scientific Reports: 11 (1), 10552. [citations: 4]"
   },
   {
     "objectID": "projects/sexual_dimorphism.html",
@@ -42,11 +28,81 @@
     "text": "Evolutionary causes & consequences of sexual dimorphism\nWork undertaken in the context of my PhD and Postdoc in collaboration with Julien Martin & Pierre Bize.\nBackground:\nMain findings:\nConclusions:"
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dumas Lab - Evolutionary Ecology in the Wild",
     "section": "",
-    "text": "My publication list is pulled automatically from my Google Scholar profile using R. If you are interested in an article that is not Open Access, please reach out.\nThe data and code used for my publications are archived on my Open Science Framework page.\n\n2026\n\n\n\nMN Dumas, B Krasnay, CA Chabot, M Fraser Franco, É Gagnon, … (2026) Longevity is heritable and negatively genetically correlated between the sexes in yellow-bellied marmots, Evolution Letters: 10 (2), 165-172. [citations: 0]\n\n\n\n2025\n\n\n\nMN Dumas, CM Meier, P Bize, JGA Martin (2025) Who keeps the house after divorcing? Partner and Nest fidelity in the long-lived Alpine swift, The American Naturalist: 205 (2), 224-239. [citations: 9]\n\n\nMN Dumas, P Bize, JGA Martin (2025) Temporal changes in sex-specific cryptic sexual dimorphism and allometric scaling in the long-lived Alpine swift Tachymarptis melba, Journal of Evolutionary Biology: 38 (12), 1668-1677. [citations: 7]\n\n\n\n2024\n\n\n\nG Masoero, MN Dumas, JGA Martin, P Bize (2024) Trait‐specific sensitive developmental windows: Wing growth best integrates weather conditions encountered throughout the development of nestling Alpine swifts, Ecology and Evolution: 14 (6), e11491. [citations: 14]\n\n\nMN Dumas, S St. Lawrence, G Masoero, P Bize, JGA Martin (2024) Adult body mass is heritable, positively genetically correlated and under selection of differing shapes between the sexes in a bird with little apparent sexual dimorphism, Journal of Animal Ecology: 93 (5), 567-582. [citations: 13]\n\n\nM Dumas, J Martin, P Bize (2024) Shared genetic architecture and sex-specific fitness consequences of forked tails in the Alpine swift Tachymarptis melba, OSF: . [citations: 2]\n\n\nMN Dumas (2024) Sex-specific genetic architecture and fitness consequences of subtly dimorphic traits in the long-lived Alpine swift, Université d’Ottawa| University of Ottawa: . [citations: 0]\n\n\n\n2022\n\n\n\nS St. Lawrence, MN Dumas, M Petelle, DT Blumstein, JGA Martin (2022) Sex-specific reproductive strategies in wild yellow-bellied marmots (Marmota flaviventer): senescence and genetic variance in annual reproductive success differ …, Behavioral Ecology and Sociobiology: 76 (6), 84. [citations: 13]\n\n\n\n2021\n\n\n\nMC Lorenzi, D Schleicherová, FG Robles-Guerrero, M Dumas, A Araguas (2021) Egg-trading worms start reciprocation with caution, respond with confidence and care about partners’ quality, Scientific Reports: 11 (1), 10552. [citations: 4]"
+    "text": "Evolutionary Ecology · Sexual Dimorphism · Long-term Data · Individual Variation · Environmental Change\n\nWelcome!\nThe Dumas Lab is based at Laurentian University, in the School of Natural Sciences. We seek to better understand how wild populations respond to changing environments, with a particular focus on sex-specific differences. We use quantitative genetics, genomics, and long-term ecological datasets to investigate the importance of evolutionary processes in shaping current trends and to make predictions about species persistence in Northern Ontario and beyond.\nOur research broadly seeks to answer the question: How do animals respond to changing environments, and how do evolutionary processes shape the future of wild populations?\n\n\nResearch Themes\n\n\n\n\nEvolutionary Ecology\nHow do natural and sexual selection shape variation and evolutionary change in wild populations?\n\n\n\n\n\nSex-specific Evolution\nWhy do males and females differ, and how do evolutionary processes act differently between the sexes?\n\n\n\n\n\nQuantitative Genetics\nHow do genes and environmental conditions contribute to individual differences and evolutionary potential?\n\n\n\n\n\nWildlife in a Changing World\nHow do climate change and human-driven environmental disturbance influence wildlife populations?\n\n\n\n\n\nAn Inclusive Research Environment\nWe believe that excellent science benefits from diverse perspectives, experiences, and ways of thinking. We are committed to fostering a welcoming, respectful, and inclusive research environment where everyone feels valued, supported, and able to contribute.\nWe strive to provide equitable opportunities for learning, mentorship, and professional development, and to create a lab culture where curiosity, collaboration, and mutual respect are central.\n\n\nExplore the Lab\nInterested in our research, looking for a research opportunity, or curious about joining the team? Explore our projects, meet the people behind the science, and get in touch!"
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "Download current CV"
+  },
+  {
+    "objectID": "projects/spatial_population_structure.html",
+    "href": "projects/spatial_population_structure.html",
+    "title": "Using behavioural strategies to define spatial population structures",
+    "section": "",
+    "text": "Using behavioural strategies to define spatial population structures\nWork undertaken in the context of a Postdoc in collaboration with Glen Brown, Jeff Brown, Stephanie Blain\nBackground:\nMain findings:\nConclusions:"
+  },
+  {
+    "objectID": "publishing_workflow.html",
+    "href": "publishing_workflow.html",
+    "title": "Dumas Lab Website — Publishing Workflow",
+    "section": "",
+    "text": "This website uses Quarto + Babelquarto for bilingual rendering and GitHub Pages (gh-pages) for deployment.\n\n\n\nmain: Website source files (.qmd, _quarto.yml, CSS, images, etc.) and rendered output in docs/.\ngh-pages: Published website (rendered HTML files and assets at the branch root).\nGitHub Pages deploys from gh-pages → /(root).\n\nImportant: Always develop on main. Never manually edit the gh-pages branch.\n\n\n\n\nAfter editing the website, open the R console and run:\nbabelquarto::render_website()\nThis renders both English and French versions into docs/.\nCheck the preview to make sure both languages look correct.\n\n\n\nIn the VS Code terminal, make sure you are on main:\ngit branch\nThe active branch should have an asterisk (*) beside main.\nThen stage, commit, and push your changes:\ngit add .\ngit commit -m \"Describe website updates\"\ngit push origin main\nReplace \"Describe website updates\" with a short description of your changes.\nIf there are no new changes to commit, skip the commit step.\n\n\n\nStill on main, run:\nquarto publish gh-pages --no-render\nThe --no-render flag is important because Babelquarto has already rendered both language versions. This prevents Quarto from performing a separate render before publishing.\nIf prompted, confirm the GitHub Pages publishing destination.\n\n\n\nVisit:\nhttps://micheladumas.github.io/\nAllow a little time for GitHub Pages to deploy the changes. Refresh the page if necessary.\n\n\n\n\nEvery time you update the website:\n\nEdit source files on main.\nRender both languages:\nbabelquarto::render_website()\nCommit and push source files:\ngit add .\ngit commit -m \"Update website\"\ngit push origin main\nPublish the rendered website:\nquarto publish gh-pages --no-render\nCheck the live website:\nhttps://micheladumas.github.io/\n\n\n\n\n\n\n\n\nCommand\nWhat it does\n\n\n\n\ngit status\nCheck for uncommitted changes\n\n\ngit branch\nSee your branches and current branch\n\n\ngit switch main\nSwitch to the source branch\n\n\ngit pull origin main\nPull the latest source changes\n\n\ngit log --oneline -5\nView the five most recent commits\n\n\ngit remote -v\nCheck your GitHub remote\n\n\n\nGolden rule: Work on main, render with Babelquarto, publish with Quarto. No manual copying, no subtree commands, and no need to switch branches to deploy!"
+  },
+  {
+    "objectID": "publishing_workflow.html#branch-structure",
+    "href": "publishing_workflow.html#branch-structure",
+    "title": "Dumas Lab Website — Publishing Workflow",
+    "section": "",
+    "text": "main: Website source files (.qmd, _quarto.yml, CSS, images, etc.) and rendered output in docs/.\ngh-pages: Published website (rendered HTML files and assets at the branch root).\nGitHub Pages deploys from gh-pages → /(root).\n\nImportant: Always develop on main. Never manually edit the gh-pages branch."
+  },
+  {
+    "objectID": "publishing_workflow.html#render-the-bilingual-website",
+    "href": "publishing_workflow.html#render-the-bilingual-website",
+    "title": "Dumas Lab Website — Publishing Workflow",
+    "section": "",
+    "text": "After editing the website, open the R console and run:\nbabelquarto::render_website()\nThis renders both English and French versions into docs/.\nCheck the preview to make sure both languages look correct."
+  },
+  {
+    "objectID": "publishing_workflow.html#commit-and-push-source-changes",
+    "href": "publishing_workflow.html#commit-and-push-source-changes",
+    "title": "Dumas Lab Website — Publishing Workflow",
+    "section": "",
+    "text": "In the VS Code terminal, make sure you are on main:\ngit branch\nThe active branch should have an asterisk (*) beside main.\nThen stage, commit, and push your changes:\ngit add .\ngit commit -m \"Describe website updates\"\ngit push origin main\nReplace \"Describe website updates\" with a short description of your changes.\nIf there are no new changes to commit, skip the commit step."
+  },
+  {
+    "objectID": "publishing_workflow.html#publish-to-github-pages",
+    "href": "publishing_workflow.html#publish-to-github-pages",
+    "title": "Dumas Lab Website — Publishing Workflow",
+    "section": "",
+    "text": "Still on main, run:\nquarto publish gh-pages --no-render\nThe --no-render flag is important because Babelquarto has already rendered both language versions. This prevents Quarto from performing a separate render before publishing.\nIf prompted, confirm the GitHub Pages publishing destination."
+  },
+  {
+    "objectID": "publishing_workflow.html#check-the-live-website",
+    "href": "publishing_workflow.html#check-the-live-website",
+    "title": "Dumas Lab Website — Publishing Workflow",
+    "section": "",
+    "text": "Visit:\nhttps://micheladumas.github.io/\nAllow a little time for GitHub Pages to deploy the changes. Refresh the page if necessary."
+  },
+  {
+    "objectID": "publishing_workflow.html#complete-workflow-quick-reference",
+    "href": "publishing_workflow.html#complete-workflow-quick-reference",
+    "title": "Dumas Lab Website — Publishing Workflow",
+    "section": "",
+    "text": "Every time you update the website:\n\nEdit source files on main.\nRender both languages:\nbabelquarto::render_website()\nCommit and push source files:\ngit add .\ngit commit -m \"Update website\"\ngit push origin main\nPublish the rendered website:\nquarto publish gh-pages --no-render\nCheck the live website:\nhttps://micheladumas.github.io/"
+  },
+  {
+    "objectID": "publishing_workflow.html#useful-git-commands",
+    "href": "publishing_workflow.html#useful-git-commands",
+    "title": "Dumas Lab Website — Publishing Workflow",
+    "section": "",
+    "text": "Command\nWhat it does\n\n\n\n\ngit status\nCheck for uncommitted changes\n\n\ngit branch\nSee your branches and current branch\n\n\ngit switch main\nSwitch to the source branch\n\n\ngit pull origin main\nPull the latest source changes\n\n\ngit log --oneline -5\nView the five most recent commits\n\n\ngit remote -v\nCheck your GitHub remote\n\n\n\nGolden rule: Work on main, render with Babelquarto, publish with Quarto. No manual copying, no subtree commands, and no need to switch branches to deploy!"
   },
   {
     "objectID": "teaching.html",

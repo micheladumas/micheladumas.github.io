@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "publishing_workflow.html",
+    "href": "publishing_workflow.html",
+    "title": "Dumas Lab Website — Publishing Workflow",
+    "section": "",
+    "text": "This website uses Quarto + Babelquarto for bilingual rendering and GitHub Pages (gh-pages) for deployment.\n\n\n\nmain: Website source files (.qmd, _quarto.yml, CSS, images, etc.) and rendered output in docs/.\ngh-pages: Published website (rendered HTML files and assets at the branch root).\nGitHub Pages deploys from gh-pages → /(root).\n\nImportant: Always develop on main. Never manually edit the gh-pages branch.\n\n\n\n\nAfter editing the website, open the R console and run:\nbabelquarto::render_website()\nThis renders both English and French versions into docs/.\nCheck the preview to make sure both languages look correct.\n\n\n\nIn the VS Code terminal, make sure you are on main:\ngit branch\nThe active branch should have an asterisk (*) beside main.\nThen stage, commit, and push your changes:\ngit add .\ngit commit -m \"Describe website updates\"\ngit push origin main\nReplace \"Describe website updates\" with a short description of your changes.\nIf there are no new changes to commit, skip the commit step.\n\n\n\nStill on main, run:\nquarto publish gh-pages --no-render\nThe --no-render flag is important because Babelquarto has already rendered both language versions. This prevents Quarto from performing a separate render before publishing.\nIf prompted, confirm the GitHub Pages publishing destination.\n\n\n\nVisit:\nhttps://micheladumas.github.io/\nAllow a little time for GitHub Pages to deploy the changes. Refresh the page if necessary.\n\n\n\n\nEvery time you update the website:\n\nEdit source files on main.\nRender both languages:\nbabelquarto::render_website()\nCommit and push source files:\ngit add .\ngit commit -m \"Update website\"\ngit push origin main\nPublish the rendered website:\nquarto publish gh-pages --no-render\nCheck the live website:\nhttps://micheladumas.github.io/\n\n\n\n\n\n\n\n\nCommand\nWhat it does\n\n\n\n\ngit status\nCheck for uncommitted changes\n\n\ngit branch\nSee your branches and current branch\n\n\ngit switch main\nSwitch to the source branch\n\n\ngit pull origin main\nPull the latest source changes\n\n\ngit log --oneline -5\nView the five most recent commits\n\n\ngit remote -v\nCheck your GitHub remote\n\n\n\nGolden rule: Work on main, render with Babelquarto, publish with Quarto. No manual copying, no subtree commands, and no need to switch branches to deploy!"
+  },
+  {
+    "objectID": "publishing_workflow.html#branch-structure",
+    "href": "publishing_workflow.html#branch-structure",
+    "title": "Dumas Lab Website — Publishing Workflow",
+    "section": "",
+    "text": "main: Website source files (.qmd, _quarto.yml, CSS, images, etc.) and rendered output in docs/.\ngh-pages: Published website (rendered HTML files and assets at the branch root).\nGitHub Pages deploys from gh-pages → /(root).\n\nImportant: Always develop on main. Never manually edit the gh-pages branch."
+  },
+  {
+    "objectID": "publishing_workflow.html#render-the-bilingual-website",
+    "href": "publishing_workflow.html#render-the-bilingual-website",
+    "title": "Dumas Lab Website — Publishing Workflow",
+    "section": "",
+    "text": "After editing the website, open the R console and run:\nbabelquarto::render_website()\nThis renders both English and French versions into docs/.\nCheck the preview to make sure both languages look correct."
+  },
+  {
+    "objectID": "publishing_workflow.html#commit-and-push-source-changes",
+    "href": "publishing_workflow.html#commit-and-push-source-changes",
+    "title": "Dumas Lab Website — Publishing Workflow",
+    "section": "",
+    "text": "In the VS Code terminal, make sure you are on main:\ngit branch\nThe active branch should have an asterisk (*) beside main.\nThen stage, commit, and push your changes:\ngit add .\ngit commit -m \"Describe website updates\"\ngit push origin main\nReplace \"Describe website updates\" with a short description of your changes.\nIf there are no new changes to commit, skip the commit step."
+  },
+  {
+    "objectID": "publishing_workflow.html#publish-to-github-pages",
+    "href": "publishing_workflow.html#publish-to-github-pages",
+    "title": "Dumas Lab Website — Publishing Workflow",
+    "section": "",
+    "text": "Still on main, run:\nquarto publish gh-pages --no-render\nThe --no-render flag is important because Babelquarto has already rendered both language versions. This prevents Quarto from performing a separate render before publishing.\nIf prompted, confirm the GitHub Pages publishing destination."
+  },
+  {
+    "objectID": "publishing_workflow.html#check-the-live-website",
+    "href": "publishing_workflow.html#check-the-live-website",
+    "title": "Dumas Lab Website — Publishing Workflow",
+    "section": "",
+    "text": "Visit:\nhttps://micheladumas.github.io/\nAllow a little time for GitHub Pages to deploy the changes. Refresh the page if necessary."
+  },
+  {
+    "objectID": "publishing_workflow.html#complete-workflow-quick-reference",
+    "href": "publishing_workflow.html#complete-workflow-quick-reference",
+    "title": "Dumas Lab Website — Publishing Workflow",
+    "section": "",
+    "text": "Every time you update the website:\n\nEdit source files on main.\nRender both languages:\nbabelquarto::render_website()\nCommit and push source files:\ngit add .\ngit commit -m \"Update website\"\ngit push origin main\nPublish the rendered website:\nquarto publish gh-pages --no-render\nCheck the live website:\nhttps://micheladumas.github.io/"
+  },
+  {
+    "objectID": "publishing_workflow.html#useful-git-commands",
+    "href": "publishing_workflow.html#useful-git-commands",
+    "title": "Dumas Lab Website — Publishing Workflow",
+    "section": "",
+    "text": "Command\nWhat it does\n\n\n\n\ngit status\nCheck for uncommitted changes\n\n\ngit branch\nSee your branches and current branch\n\n\ngit switch main\nSwitch to the source branch\n\n\ngit pull origin main\nPull the latest source changes\n\n\ngit log --oneline -5\nView the five most recent commits\n\n\ngit remote -v\nCheck your GitHub remote\n\n\n\nGolden rule: Work on main, render with Babelquarto, publish with Quarto. No manual copying, no subtree commands, and no need to switch branches to deploy!"
+  }
+]
