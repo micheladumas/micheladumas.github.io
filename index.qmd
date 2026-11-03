@@ -14,35 +14,43 @@ The Dumas Lab is based at Laurentian University, in the School of Natural Scienc
 
 Our research broadly seeks to answer the question: How do animals respond to changing environments, and how do evolutionary processes shape the future of wild populations?
 
-# Research Highlights
+# Research Themes
 
-<div class="project-grid">
+::: {.project-grid}
 
-  <div class="project-card">
-    <img src="/img/swifts-2.jpg" alt="Alpine swift in flight">
-    <h3>Evolutionary Ecology</h3>
-    <p>How do natural and sexual selection shape variation and evolutionary change in wild populations?</p>
-  </div>
+::: {.project-card}
+![](/img/swifts-2.jpg){alt="Alpine swift in flight"}
 
-  <div class="project-card">
-    <img src="/img/swifts-2.jpg" alt="Alpine swift in flight">
-    <h3>Sex-specific Evolution</h3>
-    <p>Why do males and females differ, and how do evolutionary processes act differently between the sexes?</p>
-  </div>
+### Evolutionary Ecology
 
-  <div class="project-card">
-    <img src="/img/swifts-2.jpg" alt="Alpine swift in flight">
-    <h3>Quantitative Genetics</h3>
-    <p>How do genes and environmental conditions contribute to individual differences and evolutionary potential?</p>
-  </div>
+How do natural and sexual selection shape variation and evolutionary change in wild populations?
+:::
 
-  <div class="project-card">
-    <img src="/img/swifts-2.jpg" alt="Alpine swift in flight">
-    <h3>Wildlife in a Changing World</h3>
-    <p>How do climate change and human-driven environmental disturbance influence wildlife populations?</p>
-  </div>
+::: {.project-card}
+![](/img/swifts-2.jpg){alt="Alpine swift in flight"}
 
-</div>
+### Sex-specific Evolution
+
+Why do males and females differ, and how do evolutionary processes act differently between the sexes?
+:::
+
+::: {.project-card}
+![](/img/swifts-2.jpg){alt="Alpine swift in flight"}
+
+### Quantitative Genetics
+
+How do genes and environmental conditions contribute to individual differences and evolutionary potential?
+:::
+
+::: {.project-card}
+![](/img/swifts-2.jpg){alt="Alpine swift in flight"}
+
+### Wildlife in a Changing World
+
+How do climate change and human-driven environmental disturbance influence wildlife populations?
+:::
+
+:::
 
 # An Inclusive Research Environment
 
